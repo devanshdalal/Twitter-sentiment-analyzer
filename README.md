@@ -1,4 +1,6 @@
-### Twitter Sentiment Analysis
+# Twitter Sentiment Analysis
+![l](https://cloud.githubusercontent.com/assets/5080310/13754529/5c0ebdd2-ea3d-11e5-892c-db4a6122cb2d.png)
+==========================================
 
 ## Description ##
 The project performs a sentiment analysis to determine whether tweets about something/someone are positive or negative using sklearn in Python on the standard [Sentiment140 dataset](http://help.sentiment140.com/for-students/).
@@ -21,7 +23,7 @@ For adapting the program to determine if a tweet is positive negative or neutral
 
 ------------------------------------------------------------------------------------------------------------------------
 
-### Summary
+## Summary
 
 
 
@@ -112,6 +114,14 @@ Added important featured like removed repeated chars, Separated camelcase and re
 		macroPrecision is 0.671569
 		macroRecall is 0.371142
 
+## Contributing
 
+1. Fork it!
+2. Create your branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -m 'Added Some featues'``
+4. Push to the branch: 	`git push origin my-new-feature`
+5. Submit a pull request :)
 
+## References
 
+1. http://www.umiacs.umd.edu/~hal/docs/daume07easyadapt.pdf
